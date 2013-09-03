@@ -4,10 +4,10 @@ Tendências da Inovação
 
 Apresentação sobre tendências da Inovação
 
-Este repositÃ³rio foi criado com o intÃºito de compartilhar o conteÃºdo textual da apresentaÃ§Ã£o sobre tendÃªncias da inovaÃ§Ã£o 2013 criada por Thiago Lopes Toledo em formato .txt, para que a mesma possa ser alterada e/ou ampliada, abrangendo outras lÃ­nguas.
-Caso vocÃª domine outra lingua e queira cooperar em disseminar este conhecimento serÃ¡ muito bem vindo! No prÃ³prio arquivo .txt existem algumas indicaÃ§Ãµes de como isso deve ser feito.
+Este repositório foi criado com o intúito de compartilhar o conteúdo textual da apresentação sobre tendências da inovação 2013 criada por Thiago Lopes Toledo em formato .txt, para que a mesma possa ser alterada e/ou ampliada, abrangendo outras linguas.
+Caso você domine outra lingua e queira cooperar em disseminar este conhecimento será muito bem vindo! No próprio arquivo .txt existem algumas indicações de como isso deve ser feito.
 
-A apresentaÃ§Ã£o tambÃ©m se encontra licenciada como Creative Commons conforme o Link: http://creativecommons.org/licenses/by-nc-sa/3.0/ .
-Caso planeje sugerir novas tendÃªncias a serem inseridas na apresentaÃ§Ã£o, por favor me notifique por email: falecom@thiagotoledo.com, para que eu possa avaliar sua contribuiÃ§Ã£o, caso continue com este projeto nos meses subsequentes.
+A apresentação também se encontra licenciada como Creative Commons conforme o Link: http://creativecommons.org/licenses/by-nc-sa/3.0/ .
+Caso planeje sugerir novas tendências a serem inseridas na apresentação, por favor me notifique por email: falecom@thiagotoledo.com, para que eu possa avaliar sua contribuição, caso continue com este projeto nos meses subsequentes.
 
 =====================================
