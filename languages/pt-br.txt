@@ -1,3 +1,6 @@
+/*Arquivo de linguagem - Português/Brasil (pt/br) */
+/*A versão com esta linguagem já se encontra online em: http://www.slideshare.net/javaephp/tendncias-da-inovao-24692760 */
+
 Slide1 - Tendências de inovação 2013 - para empresas
 Slide 3 - Se antecipar as tendências
 Slide 5 - Melhorar processos para chegar a resultados inalcançáveis
